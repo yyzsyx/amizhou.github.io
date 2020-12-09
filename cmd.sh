@@ -1,2 +1,2 @@
-cd /home/www/htdocs/szhou.github.io
+cd /home/www/htdocs/amizhou.github.io
 sudo git pull 
