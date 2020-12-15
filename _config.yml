@@ -7,7 +7,7 @@
 
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # --------------------------
-title: 个人技术分享                          # the main title
+title: 智能电视编程                          # the main title
 
 tagline: A homesick IT migrant worker.  # it will display as the sub-title
 
@@ -79,7 +79,7 @@ disqus:
 #
 #     dark   - Use the dark color scheme
 #
-theme_mode: dark  # <light|dark>
+theme_mode: light  # <light|dark>
 
 # boolean type, the global switch for ToC in posts.
 toc: true
